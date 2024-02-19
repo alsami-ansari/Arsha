@@ -117,7 +117,7 @@ html {
 
 @media (max-width: 991px) {
   #hero-section {
-    height: 140vh;
+    height: 100vh;
     text-align: center;
   }
 
